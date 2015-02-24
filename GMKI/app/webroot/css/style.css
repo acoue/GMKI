@@ -1,0 +1,90 @@
+/*
+* {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}*/
+
+body, html{height:100%;}
+
+.blocblanc {
+    background: none repeat scroll 0 0 #fff;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #d9dbde;
+}
+
+.blocblancContent {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 1.1em;
+}
+.blocblanc h2 {
+    border-left: 7px solid #002878;
+    color: #3a719c;
+    display: block;
+    font-size: 1.8em;
+    font-weight: 300;
+    margin: 0;
+    padding: 6px 15px 3px 9px;
+    text-transform: none;
+}
+.blocblanc h3 {
+    border-left: 7px solid #008472;
+    color: #537900;
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 1.1em;
+    margin: 30px 0 15px;
+    padding-left: 9px;
+}
+
+.blocblanc h4 {
+    border-left: 7px solid #a90050;
+    color: #5d245a;
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 1.1em;
+    margin: 30px 0 15px 30px;
+    padding-left: 9px;
+}
+
+.form_login {
+    background: none repeat scroll 0 0 #8699BA; /*#ea6060;*/
+    margin: 10px 50px 0px 50px;
+    padding: 15px;
+    position: relative;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+}
+
+.header_titre {
+    color: #000;
+    padding: 20px 20px 10px 20px;
+    font-size: 23px;
+    float: right ;
+}
+
+.header_logo {
+   padding: 0px 10px 0px 10px;
+    float: left;
+}
+
+.text-footer-right {
+    color: #777;
+    text-align: right;
+    vertical-align: middle;
+}
+.text-footer-left {
+    color: #777;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.titre_competition {
+  text-align: center;
+  font-size: 14px;
+}

@@ -1,0 +1,2365 @@
+2015-02-14 19:22:02 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/cakeGCK/app/Config/bootstrap.php(110): CakePlugin::load('DebugKit')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/cakeGCK/lib/Cake/Core/Configure.php(92): include('/Users/acoue/Do...')
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/cakeGCK/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/cakeGCK/app/webroot/index.php(100): include('/Users/acoue/Do...')
+#4 {main}
+2015-02-15 18:15:38 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:15:38 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:20:25 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:20:25 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:26:13 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:26:13 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:27:05 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:27:05 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:45:21 Error: Fatal Error (4): syntax error, unexpected '?>' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 4]
+2015-02-15 18:45:21 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 4, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 4, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:45:47 Error: Fatal Error (4): syntax error, unexpected '?>' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 4]
+2015-02-15 18:45:47 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 4, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 4, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:48:22 Error: Fatal Error (4): syntax error, unexpected '?>' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 22]
+2015-02-15 18:48:22 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 22, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 22, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:49:25 Error: Fatal Error (4): syntax error, unexpected '?>' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 28]
+2015-02-15 18:49:25 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 28, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 28, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:50:02 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:50:40 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:50:40 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:53:32 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:53:32 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:54:05 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:54:05 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:54:19 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:54:19 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:55:28 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:05 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:17 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:17 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:36 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:37 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:38 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:56:38 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:57:08 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:57:08 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:57:53 Error: Fatal Error (1): Unsupported operand types in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/Helper/HtmlHelper.php, line 425]
+2015-02-15 18:57:53 Error: [FatalErrorException] Unsupported operand types
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/acoue/Do...', 425, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-15 18:58:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 18:58:57 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:58:57 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:59:49 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:59:49 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 18:59:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:00:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:00:42 Error: [MissingActionException] Action CompetitionsController::<pre() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => '<pre',
+)
+Request URL: /GMKI/competitions/%3Cpre
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:00:42 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:00:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:00:57 Error: [MissingActionException] Action CompetitionsController::<pre() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => '<pre',
+)
+Request URL: /GMKI/competitions/%3Cpre
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:00:57 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:08 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:02:08 Error: [MissingActionException] Action CompetitionsController::<img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => '<img',
+)
+Request URL: /GMKI/competitions/%3Cimg
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:02:31 Error: [MissingActionException] Action CompetitionsController::<img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => '<img',
+)
+Request URL: /GMKI/competitions/%3Cimg
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:31 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:02:33 Error: [MissingActionException] Action CompetitionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => 'img',
+)
+Request URL: /GMKI/competitions/img/header.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:02:33 Error: [MissingActionException] Action CompetitionsController::<img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CompetitionsController',
+  'action' => '<img',
+)
+Request URL: /GMKI/competitions/%3Cimg
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-15 19:03:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:03:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/img/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:03:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:03:41 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/img/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:03:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:03:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/img/img/by-nc-nd.eu.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 19:05:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/boostrap.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:11:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/font/YanoneKaffeesatz-Regular-webfont.woff
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:11:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/font/YanoneKaffeesatz-Regular-webfont.ttf
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:20:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/js/bootsrap.min.js
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:23:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/js/bootsrap.min.js
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:26:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/js/bootsrap.min.js
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:55:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/files/YanoneKaffeesatz-Regular-webfont.woff
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-15 20:55:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/files/YanoneKaffeesatz-Regular-webfont.ttf
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 14:34:18 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Competitions/index.ctp, line 73]
+2015-02-16 14:34:18 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /GMKI/competitions/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 73, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 73, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 14:49:52 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Competitions/add.ctp, line 12]
+2015-02-16 14:49:52 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /GMKI/competitions/add
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 12, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 12, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 15:14:26 Error: Fatal Error (4): syntax error, unexpected '?>' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Competitions/add.ctp, line 50]
+2015-02-16 15:14:26 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /GMKI/competitions/add
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 50, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 50, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 15:21:38 Error: Fatal Error (4): syntax error, unexpected '' => array(0 => '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Competitions/add.ctp, line 32]
+2015-02-16 15:21:38 Error: [FatalErrorException] syntax error, unexpected '' => array(0 => '' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /GMKI/competitions/add
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 32, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 32, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-17 00:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:55:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_65_ffffff_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_65_ffffff_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:57:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 00:59:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:00:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:01:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 01:02:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_454545_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 10:30:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:00:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_65_ffffff_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:02:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_65_ffffff_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 11:03:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:27:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:44:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 14:48:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_454545_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:00:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_inset-soft_50_c9c9c9_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:00:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_35_dddddd_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:00:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_999999_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:00:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_60_eeeeee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:00:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_55_eeeeee_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_454545_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_flat_75_ffffff_40x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_222222_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:03:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:04:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-icons_454545_256x240.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:04:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/images/ui-bg_glass_75_dadada_1x400.png
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 15:08:40 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Open de France - Individuel-2015-02-15' for key 'libelle'
+Request URL: /GMKI/competitions/edit/1
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `gm...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `gm...')
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(1924): DboSource->create(Object(Competition), Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(1747): Model->_doSave(Array, Array)
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/CompetitionsController.php(72): Model->save(Array)
+#6 [internal function]: CompetitionsController->edit('1')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompetitionsController), Array)
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-02-17 15:11:19 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Open de France - Individuel-2015-02-15' for key 'libelle'
+Request URL: /GMKI/competitions/edit/1
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `gm...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `gm...')
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(1924): DboSource->create(Object(Competition), Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(1747): Model->_doSave(Array, Array)
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/CompetitionsController.php(74): Model->save(Array)
+#6 [internal function]: CompetitionsController->edit('1')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompetitionsController), Array)
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-02-17 15:33:07 Error: [NotFoundException] Invalid competition
+Request URL: /GMKI/competitions/edit
+Stack Trace:
+#0 [internal function]: CompetitionsController->edit()
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompetitionsController), Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-02-17 15:33:51 Error: [NotFoundException] Invalid competition
+Request URL: /GMKI/competitions/edit
+Stack Trace:
+#0 [internal function]: CompetitionsController->edit()
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompetitionsController), Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-02-17 18:21:18 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-17 18:21:18 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-17 18:26:22 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-17 18:26:23 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-17 18:27:19 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-17 18:27:19 Error: [MissingActionException] Action AppController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'fonts',
+)
+Request URL: /GMKI/app/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-02-20 18:23:46 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 18:23:46 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 18:27:32 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 18:27:32 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 18:30:27 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 18:30:27 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 18:32:16 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 18:32:16 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/competitions/index
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 18:36:48 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 18:36:48 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/competitions/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 18:58:28 Error: [MissingPluginException] Plugin UtilityController could not be found.
+Exception Attributes: array (
+  'plugin' => 'UtilityController',
+)
+Request URL: /GMKI/competitions/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(227): CakePlugin::path('UtilityControll...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(549): App::path('Model', 'UtilityControll...')
+#2 [internal function]: App::load('UtilityControll...')
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(27): spl_autoload_call('UtilityControll...')
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-02-20 18:58:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 19:01:57 Error: Fatal Error (1): Call to undefined method View::loadModel() in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 19:01:57 Error: [FatalErrorException] Call to undefined method View::loadModel()
+Request URL: /GMKI/competitions/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 19:10:30 Error: [MissingPluginException] Plugin UtilityController could not be found.
+Exception Attributes: array (
+  'plugin' => 'UtilityController',
+)
+Request URL: /GMKI/competitions/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(227): CakePlugin::path('UtilityControll...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(549): App::path('Model', 'UtilityControll...')
+#2 [internal function]: App::load('UtilityControll...')
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(27): spl_autoload_call('UtilityControll...')
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompetitionsController), Object(CakeRequest))
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-02-20 19:10:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:15:00 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 27]
+2015-02-20 23:15:00 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 27, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 23:18:17 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:18:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:20:35 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:20:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:22:38 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:22:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:24:03 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:24:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:25:15 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:25:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:26:11 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:26:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:33:07 Error: Fatal Error (1): Using $this when not in object context in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Model/Utility.php, line 7]
+2015-02-20 23:33:07 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Users/acoue/Do...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Users/acoue/Do...', 7, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Users/acoue/Do...', 7, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 23:36:14 Error: [MissingTableException] Table utilities for model Utility was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utilities',
+  'class' => 'Utility',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utilities')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:36:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:38:22 Error: [MissingTableException] Table utility_controllers for model UtilityController was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'utility_controllers',
+  'class' => 'UtilityController',
+  'ds' => 'default',
+)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(3640): Model->setSource('utility_control...')
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): Model->getDataSource()
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): Model->__call('getSelectedComp...', Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(28): AppModel->getSelectedCompetition()
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#10 [internal function]: PagesController->display('home')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-02-20 23:38:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-20 23:39:34 Error: Fatal Error (1): Using $this when not in object context in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Model/Utility.php, line 8]
+2015-02-20 23:39:34 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Users/acoue/Do...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Users/acoue/Do...', 8, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Users/acoue/Do...', 8, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 23:47:42 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 31]
+2015-02-20 23:47:42 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 23:48:07 Error: Fatal Error (1): Class 'UtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 31]
+2015-02-20 23:48:07 Error: [FatalErrorException] Class 'UtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'UtilityC...', '/Users/acoue/Do...', 31, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 23:55:35 Error: Fatal Error (1): Using $this when not in object context in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Lib/Utility.php, line 6]
+2015-02-20 23:55:35 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Users/acoue/Do...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Users/acoue/Do...', 6, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Users/acoue/Do...', 6, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 00:01:40 Error: Fatal Error (4): syntax error, unexpected '$comp' (T_VARIABLE) in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Lib/Utility.php, line 7]
+2015-02-21 00:01:40 Error: [FatalErrorException] syntax error, unexpected '$comp' (T_VARIABLE)
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/acoue/Do...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/acoue/Do...', 7, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/acoue/Do...', 7, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 11:39:36 Error: Fatal Error (1): Class 'MyUtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 31]
+2015-02-21 11:39:36 Error: [FatalErrorException] Class 'MyUtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 11:40:08 Error: Fatal Error (1): Class 'MyUtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 31]
+2015-02-21 11:40:08 Error: [FatalErrorException] Class 'MyUtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 11:41:19 Error: Fatal Error (1): Class 'MyUtilityController' not found in [/Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp, line 31]
+2015-02-21 11:41:19 Error: [FatalErrorException] Class 'MyUtilityController' not found
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'MyUtilit...', '/Users/acoue/Do...', 31, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 11:42:44 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getSelectedCompetition' at line 1
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('getSelectedComp...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('getSelectedComp...', Array, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getSelectedComp...', Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): DboSource->query('getSelectedComp...', Array, Object(Competition))
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Model->__call('getSelectedComp...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Competition->getSelectedCompetition()
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#13 [internal function]: PagesController->display('home')
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#15 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#16 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#17 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}
+2015-02-21 11:42:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-21 11:45:00 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getSelectedCompetition' at line 1
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('getSelectedComp...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('getSelectedComp...', Array, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getSelectedComp...', Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): DboSource->query('getSelectedComp...', Array, Object(Competition))
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Model->__call('getSelectedComp...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Competition->getSelectedCompetition()
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#13 [internal function]: PagesController->display('home')
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#15 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#16 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#17 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}
+2015-02-21 11:45:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-21 16:52:30 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getSelectedCompetition' at line 1
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('getSelectedComp...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('getSelectedComp...', Array, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getSelectedComp...', Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): DboSource->query('getSelectedComp...', Array, Object(Competition))
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Model->__call('getSelectedComp...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Competition->getSelectedCompetition()
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#13 [internal function]: PagesController->display('home')
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#15 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#16 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#17 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}
+2015-02-21 16:52:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-21 16:58:43 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getSelectedCompetition' at line 1
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('getSelectedComp...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('getSelectedComp...', Array, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getSelectedComp...', Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): DboSource->query('getSelectedComp...', Array, Object(Competition))
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Model->__call('getSelectedComp...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Competition->getSelectedCompetition()
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#13 [internal function]: PagesController->display('home')
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#15 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#16 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#17 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}
+2015-02-21 16:58:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-21 18:11:39 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getSelectedCompetition' at line 1
+Request URL: /GMKI/
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('getSelectedComp...', Array)
+#2 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('getSelectedComp...', Array, Array)
+#3 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getSelectedComp...', Array, Array)
+#4 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Model/Model.php(827): DboSource->query('getSelectedComp...', Array, Object(Competition))
+#5 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Model->__call('getSelectedComp...', Array)
+#6 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/View/Layouts/default.ctp(33): Competition->getSelectedCompetition()
+#7 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(961): include('/Users/acoue/Do...')
+#8 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(923): View->_evaluate('/Users/acoue/Do...', Array)
+#9 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(546): View->_render('/Users/acoue/Do...')
+#10 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/View/View.php(481): View->renderLayout('', 'default')
+#11 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#12 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/Controller/PagesController.php(68): Controller->render('home')
+#13 [internal function]: PagesController->display('home')
+#14 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#15 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#16 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#17 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}
+2015-02-21 18:11:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /GMKI/css/cake.generic.css
+Stack Trace:
+#0 /Users/acoue/Documents/02_Sources/workspacePhp/GMKI/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
